@@ -16,3 +16,6 @@ Our goals for the future include:
  - Provision of a “share” feature enabling users to share photographs of their recycled products on Instagram, Whatsapp, etc.
  - Formation of mini groups, where users can compete with each other in terms of their points, and can share images of their upcycled projects. This will encourage users to upcycle more often.
  - Incentivisation by the use of the  point system: Users can implement their earned points as a currency to trade with other users. The tradable goods will be the upcycled projects.
+
+##### Our Presentation
+https://docs.google.com/presentation/d/170uu0CBsVqJzDZqe3MborD5-4q6ydjcIYEPYoyo1zkA/edit?usp=sharing
