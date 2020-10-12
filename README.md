@@ -1,6 +1,9 @@
 # Re-APPly
 ### A Sustainable Project by gREen works
 
+##### Our Video
+[<img src="https://img.youtube.com/vi/M1hsJy_vW0U/maxresdefault.jpg" width="50%">](https://youtu.be/M1hsJy_vW0U)
+
 #### Our Story
 ##### The Problem
 According to BBC, the world produces over two billion tonnes of municipal solid waste every year, enough to fill over 800,000 Olympic sized swimming pools. The average person generates over 4 pounds of trash every day and about 1.5 tons of solid waste per year. Recycling 100 cans could light your bedroom for two whole weeks. We bin around 50 million tonnes of electrical waste globally every year. That’s nearly 4 million double decker buses. Humans now buy a million plastic bottles a minute. Most of this plastic ends up in the ocean. By 2050, the ocean will contain more plastic by weight than fish. Waste causes greenhouse gas emissions, which contribute to global warming.
