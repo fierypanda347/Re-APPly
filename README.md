@@ -2,7 +2,7 @@
 ### A Sustainable Project by gREen works
 
 ##### Our Video
-[<img src="https://img.youtube.com/vi/M1hsJy_vW0U/maxresdefault.jpg" width="50%">](https://youtu.be/M1hsJy_vW0U)
+
 
 #### Our Story
 ##### The Problem
