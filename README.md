@@ -21,4 +21,4 @@ Our goals for the future include:
  - Incentivisation by the use of the  point system: Users can implement their earned points as a currency to trade with other users. The tradable goods will be the upcycled projects.
 
 ##### Our Presentation
-https://docs.google.com/presentation/d/170uu0CBsVqJzDZqe3MborD5-4q6ydjcIYEPYoyo1zkA/edit?usp=sharing
+https://docs.google.com/presentation/d/170uu0CBsVqJzDZqe3MborD5-4q6ydjcIYEPYoyo1zkA/edit?usp=sharing 
