@@ -1,6 +1,9 @@
 # Re-APPly
 ### A Sustainable Project by gREen works
 
+##### Project Description
+Re-APPly is a Python GUI Program developed by Yash Muthalia, Arnav Shah, Dylan D'Souza and Advait Variyar, students of grade 9 from Dhirubhai Ambani International School, Mumbai. Re-APPly aims to gamify the process of upcycling old household items and giving them a new use. The program was written in Python and uses libraries such as Tkinter and SQLite. Re-APPly won an award for the 'Best Beginner Hack' at the October 2020 Steel City Codes Hackathon.
+
 ##### Our Video
 https://youtu.be/M1hsJy_vW0U
 
